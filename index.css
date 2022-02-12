@@ -11,3 +11,14 @@
 ul {
   list-style: none;
 }
+/* Added a card class to style the user info */
+.card {
+  align-content: center;
+  text-align: center;
+  display: inline-grid;
+}
+
+.img {
+  width: 300px;
+  align-content: center;
+}
